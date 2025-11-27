@@ -75,12 +75,6 @@
       "required": true
     },
     {
-      "file_name": "e4mc_minecraft-fabric-5.3.1.jar",
-      "sha1": null,
-      "size": 575182,
-      "required": true
-    },
-    {
       "file_name": "enhancedblockentities-0.11.3+1.21.4.jar",
       "sha1": null,
       "size": 207442,
@@ -171,12 +165,6 @@
       "required": true
     },
     {
-      "file_name": "main-menu-credits-1.2.0.jar",
-      "sha1": null,
-      "size": 16640,
-      "required": true
-    },
-    {
       "file_name": "mixintrace-1.1.1+1.17.jar",
       "sha1": null,
       "size": 36039,
@@ -192,12 +180,6 @@
       "file_name": "modernfix-fabric-5.20.3+mc1.21.4.jar",
       "sha1": null,
       "size": 436498,
-      "required": true
-    },
-    {
-      "file_name": "modmenu-13.0.3.jar",
-      "sha1": null,
-      "size": 1050777,
       "required": true
     },
     {
@@ -228,18 +210,6 @@
       "file_name": "optigui-2.3.0-beta.7+1.21.2.jar",
       "sha1": null,
       "size": 612531,
-      "required": true
-    },
-    {
-      "file_name": "paginatedadvancements-2.6.1+1.21.4.jar",
-      "sha1": null,
-      "size": 81111,
-      "required": true
-    },
-    {
-      "file_name": "polytone-1.21.4-3.3.22-fabric.jar",
-      "sha1": null,
-      "size": 765015,
       "required": true
     },
     {
