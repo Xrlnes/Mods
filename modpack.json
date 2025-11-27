@@ -1,0 +1,306 @@
+{
+  "version": "1.0.0",
+  "mc_version": "1.21.4",
+  "mods": [
+    {
+      "file_name": "animatica-0.6.1+1.21.4.jar",
+      "sha1": null,
+      "size": 71618,
+      "required": true
+    },
+    {
+      "file_name": "appleskin-fabric-mc1.21.3-3.0.6.jar",
+      "sha1": null,
+      "size": 1095505,
+      "required": true
+    },
+    {
+      "file_name": "BetterGrassify-1.7.0+fabric.1.21.4.jar",
+      "sha1": null,
+      "size": 155059,
+      "required": true
+    },
+    {
+      "file_name": "bettermounthud-1.2.5.jar",
+      "sha1": null,
+      "size": 21037,
+      "required": true
+    },
+    {
+      "file_name": "capes-1.5.5+1.21.4-fabric.jar",
+      "sha1": null,
+      "size": 77080,
+      "required": true
+    },
+    {
+      "file_name": "chat_heads-0.14.2-fabric-1.21.4.jar",
+      "sha1": null,
+      "size": 80464,
+      "required": true
+    },
+    {
+      "file_name": "cloth-config-17.0.144-fabric.jar",
+      "sha1": null,
+      "size": 1152857,
+      "required": true
+    },
+    {
+      "file_name": "continuity-3.0.0+1.21.4.jar",
+      "sha1": null,
+      "size": 1001061,
+      "required": true
+    },
+    {
+      "file_name": "controlify-2.2.1+1.21.4-fabric.jar",
+      "sha1": null,
+      "size": 6937890,
+      "required": true
+    },
+    {
+      "file_name": "cwb-fabric-3.0.0+mc1.21.3.jar",
+      "sha1": null,
+      "size": 80793,
+      "required": true
+    },
+    {
+      "file_name": "Debugify-1.21.4+1.1.jar",
+      "sha1": null,
+      "size": 298681,
+      "required": true
+    },
+    {
+      "file_name": "dynamic-fps-3.9.5+minecraft-1.21.2-fabric.jar",
+      "sha1": null,
+      "size": 191899,
+      "required": true
+    },
+    {
+      "file_name": "e4mc_minecraft-fabric-5.3.1.jar",
+      "sha1": null,
+      "size": 575182,
+      "required": true
+    },
+    {
+      "file_name": "enhancedblockentities-0.11.3+1.21.4.jar",
+      "sha1": null,
+      "size": 207442,
+      "required": true
+    },
+    {
+      "file_name": "entity_model_features_fabric_1.21.4-2.4.1.jar",
+      "sha1": null,
+      "size": 448076,
+      "required": true
+    },
+    {
+      "file_name": "entity_texture_features_fabric_1.21.4-6.2.10.jar",
+      "sha1": null,
+      "size": 651894,
+      "required": true
+    },
+    {
+      "file_name": "entityculling-fabric-1.8.0-mc1.21.4.jar",
+      "sha1": null,
+      "size": 465405,
+      "required": true
+    },
+    {
+      "file_name": "fabric-api-0.119.3+1.21.4.jar",
+      "sha1": null,
+      "size": 2148367,
+      "required": true
+    },
+    {
+      "file_name": "fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+      "sha1": null,
+      "size": 7387359,
+      "required": true
+    },
+    {
+      "file_name": "fabrishot-1.14.4.jar",
+      "sha1": null,
+      "size": 54322,
+      "required": true
+    },
+    {
+      "file_name": "fastquit-3.0.0+1.21.4.jar",
+      "sha1": null,
+      "size": 59241,
+      "required": true
+    },
+    {
+      "file_name": "ferritecore-7.1.1-fabric.jar",
+      "sha1": null,
+      "size": 107026,
+      "required": true
+    },
+    {
+      "file_name": "ForgeConfigAPIPort-v21.4.1-1.21.4-Fabric.jar",
+      "sha1": null,
+      "size": 641130,
+      "required": true
+    },
+    {
+      "file_name": "ImmediatelyFast-Fabric-1.8.0+1.21.4.jar",
+      "sha1": null,
+      "size": 227072,
+      "required": true
+    },
+    {
+      "file_name": "iris-fabric-1.8.8+mc1.21.4.jar",
+      "sha1": null,
+      "size": 2682702,
+      "required": true
+    },
+    {
+      "file_name": "lambdynamiclights-4.1.3+1.21.4.jar",
+      "sha1": null,
+      "size": 1038224,
+      "required": true
+    },
+    {
+      "file_name": "language-reload-1.7.4+1.21.4.jar",
+      "sha1": null,
+      "size": 74922,
+      "required": true
+    },
+    {
+      "file_name": "lithium-fabric-0.15.3+mc1.21.4.jar",
+      "sha1": null,
+      "size": 797555,
+      "required": true
+    },
+    {
+      "file_name": "main-menu-credits-1.2.0.jar",
+      "sha1": null,
+      "size": 16640,
+      "required": true
+    },
+    {
+      "file_name": "mixintrace-1.1.1+1.17.jar",
+      "sha1": null,
+      "size": 36039,
+      "required": true
+    },
+    {
+      "file_name": "modelfix-1.21.3-1.10-fabric.jar",
+      "sha1": null,
+      "size": 66412,
+      "required": true
+    },
+    {
+      "file_name": "modernfix-fabric-5.20.3+mc1.21.4.jar",
+      "sha1": null,
+      "size": 436498,
+      "required": true
+    },
+    {
+      "file_name": "modmenu-13.0.3.jar",
+      "sha1": null,
+      "size": 1050777,
+      "required": true
+    },
+    {
+      "file_name": "morechathistory-1.3.1.jar",
+      "sha1": null,
+      "size": 3573,
+      "required": true
+    },
+    {
+      "file_name": "moreculling-fabric-1.21.4-1.2.10.jar",
+      "sha1": null,
+      "size": 349756,
+      "required": true
+    },
+    {
+      "file_name": "MouseTweaks-fabric-mc1.21.3-2.27.jar",
+      "sha1": null,
+      "size": 76225,
+      "required": true
+    },
+    {
+      "file_name": "NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "sha1": null,
+      "size": 321286,
+      "required": true
+    },
+    {
+      "file_name": "optigui-2.3.0-beta.7+1.21.2.jar",
+      "sha1": null,
+      "size": 612531,
+      "required": true
+    },
+    {
+      "file_name": "paginatedadvancements-2.6.1+1.21.4.jar",
+      "sha1": null,
+      "size": 81111,
+      "required": true
+    },
+    {
+      "file_name": "polytone-1.21.4-3.3.22-fabric.jar",
+      "sha1": null,
+      "size": 765015,
+      "required": true
+    },
+    {
+      "file_name": "puzzle-fabric-2.0.5+1.21.4.jar",
+      "sha1": null,
+      "size": 139236,
+      "required": true
+    },
+    {
+      "file_name": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+      "sha1": null,
+      "size": 81067,
+      "required": true
+    },
+    {
+      "file_name": "rrls-5.1.2+mc1.21.4-fabric.jar",
+      "sha1": null,
+      "size": 190678,
+      "required": true
+    },
+    {
+      "file_name": "sodium-extra-fabric-0.6.1+mc1.21.4.jar",
+      "sha1": null,
+      "size": 360180,
+      "required": true
+    },
+    {
+      "file_name": "sodium-fabric-0.6.13+mc1.21.4.jar",
+      "sha1": null,
+      "size": 1306799,
+      "required": true
+    },
+    {
+      "file_name": "tooltip-scroll-1.4.0+1.21.3.jar",
+      "sha1": null,
+      "size": 77340,
+      "required": true
+    },
+    {
+      "file_name": "voicechat-fabric-1.21.4-2.6.6.jar",
+      "sha1": null,
+      "size": 5346725,
+      "required": true
+    },
+    {
+      "file_name": "yet_another_config_lib_v3-3.7.1+1.21.4-fabric.jar",
+      "sha1": null,
+      "size": 1123237,
+      "required": true
+    },
+    {
+      "file_name": "yosbr-0.1.2.jar",
+      "sha1": null,
+      "size": 17373,
+      "required": true
+    },
+    {
+      "file_name": "Zoomify-2.14.2+1.21.3.jar",
+      "sha1": null,
+      "size": 807977,
+      "required": true
+    }
+  ]
+}
